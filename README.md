@@ -14,13 +14,13 @@
 - Engineered features to normalize and standardized variable to help understand data.
 - Optimized Linear, Decision Tree and Random forrest Regressors to reach the best model.
 
-# Code and Resources Used
+## Code and Resources Used
 
 **Python Version** : 3.7
 
 **Packages** : Pandas, Matplotlib, Seaborn, Sklearn, numpy, scipy
 
-# Data Cleaning
+## Data Cleaning
 
 - Find out how many missing values are in each coloumn
 - Replaced missing values in numerical variable with mean value
@@ -29,7 +29,7 @@
 - Standardized city and highway variables
 - Normalized length, height and width
 
-# Model Building
+## Model Building
 
 First, I transformed all categorical variables into dummy variables, I also split the test and train data.
 
@@ -40,7 +40,7 @@ I tried these models:
 - **Decision Tree** - Better classification and regression model than linear
 - **Random Forest** - With the sparsity of the data, I thought this would be good model
 
-# Model Performance
+## Model Performance
 
 - **Linear Regression**: MAE = 2346
 - **Decision Tree**: MAE = 1684

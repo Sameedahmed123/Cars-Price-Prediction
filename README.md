@@ -19,7 +19,11 @@
 **Python Version** : 3.7
 
 **Packages** : Pandas, Matplotlib, Seaborn, Sklearn, numpy, scipy
-
+<details open>
+<summary>Steps Taken</summary>
+<br>
+  
+  
 ### Data Cleaning
 
 - Find out how many missing values are in each coloumn
@@ -39,9 +43,19 @@ I tried these models:
 - **Linear Regression** - Baseline for the model
 - **Decision Tree** - Better classification and regression model than linear
 - **Random Forest** - With the sparsity of the data, I thought this would be good model
+</details>
 
-### Model Performance
+<details open>
+<summary>Final Predictions</summary>
+<br>
+  
+  
+  
+  
+### Model Performances
 
 - **Linear Regression**: MAE = 2346
 - **Decision Tree**: MAE = 1684
 - **Random Forest** : MAE = 1282
+
+</details>

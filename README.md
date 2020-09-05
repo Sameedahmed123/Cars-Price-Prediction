@@ -20,7 +20,7 @@
 
 **Packages** : Pandas, Matplotlib, Seaborn, Sklearn, numpy, scipy
 <details open>
-<summary>Steps Taken</summary>
+<summary>Workflows</summary>
 <br>
   
   
